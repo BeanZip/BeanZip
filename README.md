@@ -1,10 +1,12 @@
 ## Yo Welcome to the Account! 👋
 
+(Nah but fr thanks)
+
 # I make games 
 I really like making games, cause it's lowkey fun
 and i'm mediocre at coding 
 
-# Currently Learning
+## Currently Learning
 
 - C#
 - Java
