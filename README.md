@@ -9,7 +9,9 @@ and i'm mediocre at coding.
 
 - C#
 - Java
-- Rust (just started)
+- Rust
+- GoLang (Somewhat)
+- C/C++
 
 # Collaboration?
 Reach me on my discord
